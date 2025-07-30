@@ -11,7 +11,7 @@ endmodule
 
 module basic_tb();
 reg one,two,three,four;
-wire five;
+wire eight;
 basic uut(one,two,three,four,eight);
 initial begin
 
